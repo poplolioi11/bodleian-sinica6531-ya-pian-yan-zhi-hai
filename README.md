@@ -4,11 +4,11 @@
 
 Ya pian yan zhi hai is a Chinese anti-opium broadside issued by the Religious Tract Society in Hankou, provisionally dated by the Bodleian catalogue to 1880–1890. Eleven numbered arguments discuss the reported effects of opium smoking on finances, time, the body, and everyday obligations. The source documents the language and graphic organization of late Qing public-health advocacy.
 
-## V0.1.0
+## V0.2.0
 
-一幅正面影像，含印刷書名、刊署與十一項正文。後加英文筆題、館號及圓印分錄。AI 輔助逐欄初錄，原點及未定字留位置。
+一幅正面影像，含印刷書名、刊署與十一項正文。後加英文筆題、館號及圓印分錄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 3 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-One recto scan containing the printed title, imprint, and eleven sections. Later English pencil text, shelfmark, and the circular collection stamp are separate. AI-assisted initial reading with source-locatable punctuation and uncertain readings.
+One recto scan containing the printed title, imprint, and eleven sections. Later English pencil text, shelfmark, and the circular collection stamp are separate. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 3 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

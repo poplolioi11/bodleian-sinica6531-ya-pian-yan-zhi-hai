@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '鴉片煙之害（約1880–1890年漢口印單，牛津 Sinica 6531） / Ya pian yan zhi hai [The Harms of
   Opium Smoking]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

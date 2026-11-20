@@ -1,0 +1,139 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 17,
+      "kind": "main",
+      "op": "replace",
+      "before": "可辨",
+      "after": "可辦",
+      "reason": "兩辛中可辨力的鉤與撇，依印面作辦。",
+      "source_bbox": [
+        1425,
+        1392,
+        1517,
+        1500
+      ],
+      "offset": [
+        18,
+        20
+      ],
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 26,
+      "kind": "main",
+      "op": "replace",
+      "before": "羸弱",
+      "after": "孱弱",
+      "reason": "體下面一字作尸覆三子，依印面作孱。",
+      "source_bbox": [
+        946,
+        1342,
+        1035,
+        1460
+      ],
+      "offset": [
+        7,
+        9
+      ],
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "BIBLIOTHECA BODLEIANA",
+      "after": "BIBLIOTHECA · BODLEIANA",
+      "reason": "圓印拉丁文外環兩詞間另有實線點號。",
+      "source_bbox": [
+        319,
+        1808,
+        464,
+        1948
+      ],
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "status": "圓印中央字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 8,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "矜恤窮苦",
+      "status": "依原圖留讀",
+      "reason": "保留矜、恤的原形。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 10,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "今耽於此毒",
+      "status": "依原圖留讀",
+      "reason": "耽的耳旁多橫，右部下鉤可見。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 16,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "不受所挾誠難矣",
+      "status": "依原圖留讀",
+      "reason": "挾和誠之間無可信刻點。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 18,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "嚒啡",
+      "status": "依原圖留讀",
+      "reason": "嚒右邊麻形最下從幺，沒有馬旁。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 24,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "趨避",
+      "status": "依原圖留讀",
+      "reason": "趨從走，右部有兩組彎筆。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 33,
+      "source_image_sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "reading": "遭撞無遺",
+      "status": "依原圖留讀",
+      "reason": "撞左手旁、右童清楚。"
+    }
+  ]
+}

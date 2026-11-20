@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -109,7 +109,7 @@
               <seg type="diplomatic-text">奴者、人所耻為也、一染此毒、則欲思自振、不受所挾誠難矣、雖有萬宗</seg>
             </ab>
             <ab type="column" n="17" xml:id="f01-s-c17">
-              <seg type="diplomatic-text">要事、身家急計、亦必須先足其癮、然後可辨、其樂於為奴、又何意耶、</seg>
+              <seg type="diplomatic-text">要事、身家急計、亦必須先足其癮、然後可辦、其樂於為奴、又何意耶、</seg>
             </ab>
             <ab type="column" n="18" xml:id="f01-s-c18">
               <seg type="diplomatic-text">六內有嚒啡毒物</seg>
@@ -136,7 +136,7 @@
               <seg type="diplomatic-text">八敗他藥之功阻病之痊愈</seg>
             </ab>
             <ab type="column" n="26" xml:id="f01-s-c26">
-              <seg type="diplomatic-text">食煙之人、身體羸弱、氣力衰頹、苟患疾病、服藥</seg>
+              <seg type="diplomatic-text">食煙之人、身體孱弱、氣力衰頹、苟患疾病、服藥</seg>
             </ab>
             <ab type="column" n="27" xml:id="f01-s-c27">
               <seg type="diplomatic-text">誠難奏效、是又安能望其痊愈、食之者當思耳、</seg>
@@ -171,21 +171,25 @@
             <ab type="column" n="37" xml:id="f01-s-c37">
               <seg type="diplomatic-text">如禽獸矣、吾人豈可甘居禽獸之下哉、</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c37">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>上緣右側英文鉛筆題</label>
               <seg type="diplomatic-text" rend="unknown">Exhortation against Opium</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c37">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>上緣左側書號鉛筆記</label>
               <seg type="diplomatic-text" rend="unknown">Sinica 6531</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f01-s-c37">
+            <ab type="page-feature" subtype="seal">
               <label>左下圓印</label>
-              <seg type="diplomatic-text" rend="unknown">BIBLIOTHECA BODLEIANA</seg>
+              <seg type="diplomatic-text" rend="black">BIBLIOTHECA · BODLEIANA</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">單幅：各節為先大號標題、再右至左小字，保留欄序。原件小點轉作「、」，未依今式重新斷句。 單幅：「嚒啡」「可辨」「遭撞」「羸」為原字候讀，待局部放大核。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>圓印內芯</quote>
+              <note type="editorial">徽章中央字樣過細，保留外環可辨文字和原圖定位。</note>
+            </ab>
           </div>
         </div>
       </div>

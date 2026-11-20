@@ -17,13 +17,13 @@
     "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f.json",
     "manifest_sha256": "34395927b536180899adb51d3873964787b6262d7bd51bbddade5cbc19da34a7",
     "record_id": "SINICA6531",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       1
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "鴉片煙之害（約1880–1890年漢口印單，牛津 Sinica 6531） / Ya pian yan zhi hai [The Harms of Opium Smoking]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -42,7 +42,7 @@
       "native_height": 4790,
       "downloaded_height": 2338,
       "content_role": "printed-broadside-recto",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
@@ -96,7 +96,7 @@
               "text": "奴者、人所耻為也、一染此毒、則欲思自振、不受所挾誠難矣、雖有萬宗"
             },
             {
-              "text": "要事、身家急計、亦必須先足其癮、然後可辨、其樂於為奴、又何意耶、"
+              "text": "要事、身家急計、亦必須先足其癮、然後可辦、其樂於為奴、又何意耶、"
             },
             {
               "text": "六內有嚒啡毒物"
@@ -123,7 +123,7 @@
               "text": "八敗他藥之功阻病之痊愈"
             },
             {
-              "text": "食煙之人、身體羸弱、氣力衰頹、苟患疾病、服藥"
+              "text": "食煙之人、身體孱弱、氣力衰頹、苟患疾病、服藥"
             },
             {
               "text": "誠難奏效、是又安能望其痊愈、食之者當思耳、"
@@ -164,27 +164,35 @@
               "type": "copy-annotation",
               "location": "上緣右側英文鉛筆題",
               "text": "Exhortation against Opium",
-              "column_anchor": 37,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "上緣左側書號鉛筆記",
               "text": "Sinica 6531",
-              "column_anchor": 37,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左下圓印",
-              "text": "BIBLIOTHECA BODLEIANA",
-              "column_anchor": 37,
-              "color": "unknown"
+              "text": "BIBLIOTHECA · BODLEIANA",
+              "column_anchor": null,
+              "color": "black"
             }
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "圓印內芯",
+          "candidates": [],
+          "note": "徽章中央字樣過細，保留外環可辨文字和原圖定位。"
+        }
+      ],
       "observations": "單幅：各節為先大號標題、再右至左小字，保留欄序。原件小點轉作「、」，未依今式重新斷句。 單幅：「嚒啡」「可辨」「遭撞」「羸」為原字候讀，待局部放大核。"
     }
   ]
