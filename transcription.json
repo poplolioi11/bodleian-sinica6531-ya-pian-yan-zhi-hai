@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "title": "鴉片煙之害",
+    "catalogue_title": "鴉片煙之害",
+    "alternate_title": "Ya pian yan zhi hai",
+    "roman_title": "Ya pian yan zhi hai",
+    "author": "撰者未詳，漢口聖教書局印發",
+    "date": "刊年未署，館目推定 1880–1890 年。",
+    "location": "漢口",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 6531",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f/",
+    "rights": "https://digital.bodleian.ox.ac.uk/terms/",
+    "description": "漢口聖教書局印發的戒鴉片單張，按十一條論述吸食對家計、健康及倫理生活的影響。",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f.json",
+    "manifest_sha256": "34395927b536180899adb51d3873964787b6262d7bd51bbddade5cbc19da34a7",
+    "record_id": "SINICA6531",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      1
+    ],
+    "version": "0.1.0",
+    "dataset_title": "鴉片煙之害（約1880–1890年漢口印單，牛津 Sinica 6531） / Ya pian yan zhi hai [The Harms of Opium Smoking]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ac6a0368-ca47-480b-ba45-d773c1071d94/full/2800,/0/default.jpg",
+      "label": "recto",
+      "file": "01.jpg",
+      "bytes": 1994721,
+      "sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "native_width": 5736,
+      "native_height": 4790,
+      "downloaded_height": 2338,
+      "content_role": "printed-broadside-recto",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "鴉片煙之害"
+            },
+            {
+              "text": "漢口聖教書局印發"
+            },
+            {
+              "text": "一費地"
+            },
+            {
+              "text": "地之為用、乃種百穀生萬物、以養人及衆生者、"
+            },
+            {
+              "text": "今用之栽植毒物、禍害人身、豈非顯背天心哉、"
+            },
+            {
+              "text": "二費財"
+            },
+            {
+              "text": "人之需財、本為仰事俯畜、贍養身家之計、若有贏餘、亦可用"
+            },
+            {
+              "text": "以矜恤窮苦、今以有用之財、棄於無益之地、其惑豈不甚歟、"
+            },
+            {
+              "text": "三費時"
+            },
+            {
+              "text": "人生於世、光陰無幾、一分一寸、皆為古人所惜、其重可知矣、今耽於此毒、時費"
+            },
+            {
+              "text": "業失而不知返、獨不思如流之歲月、刻不為留、轉瞬百事無成、徒自怨苦耳、"
+            },
+            {
+              "text": "四漸至多食"
+            },
+            {
+              "text": "洋煙一物、初食少許、便知自足、繼則日漸"
+            },
+            {
+              "text": "求多、積至累錢累兩、勢更難除、可不畏歟、"
+            },
+            {
+              "text": "五人為其奴"
+            },
+            {
+              "text": "奴者、人所耻為也、一染此毒、則欲思自振、不受所挾誠難矣、雖有萬宗"
+            },
+            {
+              "text": "要事、身家急計、亦必須先足其癮、然後可辨、其樂於為奴、又何意耶、"
+            },
+            {
+              "text": "六內有嚒啡毒物"
+            },
+            {
+              "text": "鴉片之毒、即此物也、今有人焉、持鴆毒一甌、遍請人飲、必無人受"
+            },
+            {
+              "text": "之、獨至此毒、何受之者如斯之衆、豈不知其為毒耶、蓋亦自欺耳、"
+            },
+            {
+              "text": "七使臟腑失調為病症之原"
+            },
+            {
+              "text": "食此毒後、各經漸遭其患、失卻常功、由"
+            },
+            {
+              "text": "是疾病滋生矣、病也者、人皆畏而多方"
+            },
+            {
+              "text": "趨避、今則竟招之來、其愚為何如也、"
+            },
+            {
+              "text": "八敗他藥之功阻病之痊愈"
+            },
+            {
+              "text": "食煙之人、身體羸弱、氣力衰頹、苟患疾病、服藥"
+            },
+            {
+              "text": "誠難奏效、是又安能望其痊愈、食之者當思耳、"
+            },
+            {
+              "text": "九喪失天良"
+            },
+            {
+              "text": "人性之惡、尚賴有天良在、冀其可以修改、今若"
+            },
+            {
+              "text": "此毒、能使人失喪天良、冥頑難化、可不痛惜哉、"
+            },
+            {
+              "text": "十故食之為有罪"
+            },
+            {
+              "text": "既知其種種弊端、又偏好之樂之、將父母之"
+            },
+            {
+              "text": "遺體、天賦之聰明、遭撞無遺、其為罪亦大矣、"
+            },
+            {
+              "text": "十一禽獸亦不之食"
+            },
+            {
+              "text": "人為萬物之靈、固貴於禽獸、而鴉片一物、未嘗"
+            },
+            {
+              "text": "見禽獸有食之者、禽獸不食、而人食之、是人不"
+            },
+            {
+              "text": "如禽獸矣、吾人豈可甘居禽獸之下哉、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "上緣右側英文鉛筆題",
+              "text": "Exhortation against Opium",
+              "column_anchor": 37,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "上緣左側書號鉛筆記",
+              "text": "Sinica 6531",
+              "column_anchor": 37,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左下圓印",
+              "text": "BIBLIOTHECA BODLEIANA",
+              "column_anchor": 37,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：各節為先大號標題、再右至左小字，保留欄序。原件小點轉作「、」，未依今式重新斷句。 單幅：「嚒啡」「可辨」「遭撞」「羸」為原字候讀，待局部放大核。"
+    }
+  ]
+}

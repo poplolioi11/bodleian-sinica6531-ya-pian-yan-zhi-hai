@@ -1,0 +1,20 @@
+{
+  "historical_author": "撰者未詳，漢口聖教書局印發",
+  "source_identity": "牛津大學博德利圖書館 Sinica 6531",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f.json",
+  "source_rights_policy": "https://digital.bodleian.ox.ac.uk/terms/",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6a0368-ca47-480b-ba45-d773c1071d94.json",
+      "label": "recto",
+      "sha256": "9ed9f5d515258fe86973ac7b54a49f75dd8eadc3a3eaa846859f406c2d2582ac",
+      "content_role": "printed-broadside-recto"
+    }
+  ]
+}
